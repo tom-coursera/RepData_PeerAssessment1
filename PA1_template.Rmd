@@ -3,7 +3,7 @@
 
 ## Loading and preprocessing the data
 
-I will be using the package "plyr" to analyze the data. 
+I will be using the package "plyr" to analyze the data. All the necessary packages are loaded here.
 
 ```{r}
     library(yaml) ; library(htmltools) ; library(rmarkdown) ; library(knitr) ; library(plyr)   
